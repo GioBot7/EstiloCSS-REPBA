@@ -44,6 +44,9 @@
 
                 .WordSection3{
                     width:auto;
+                    text-decoration: none !important;
+                    pointer-events: none;
+                    cursor: text;
                 }
 
                 footer {
